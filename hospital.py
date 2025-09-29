@@ -97,7 +97,7 @@ class hospital:
 
                 if self.name2.lower() == name.lower():
                     self.found = True
-                    print(f"Patient data deleted: {name}")
+                    print(f"patient data deleted: {name}")
                     continue  
 
                 new_line.extend(block)
