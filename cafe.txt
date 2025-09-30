@@ -1,0 +1,42 @@
+ITEM:: Tea
+PRICE:: 150
+--------------------
+ITEM:: Sandwich
+PRICE:: 350
+--------------------
+ITEM:: Burger
+PRICE:: 500
+--------------------
+ITEM:: Fries
+PRICE:: 250
+--------------------
+ITEM:: coffee 2 2
+PRICE:: 250
+--------------------
+ITEM:: hassan 2
+PRICE:: 234
+--------------------
+ITEM:: ggg 2
+PRICE:: 23
+--------------------
+ITEM:: hhhh 2
+PRICE:: 23
+--------------------
+ITEM:: hshdsdk 2
+PRICE:: 23
+--------------------
+ITEM:: dfg 2
+PRICE:: 234
+--------------------
+ITEM:: assd 2
+PRICE:: 23
+--------------------
+ITEM:: dsd 2
+PRICE:: 23
+--------------------
+ITEM:: sdf 2
+PRICE:: 23
+--------------------
+ITEM:: dffd 2
+PRICE:: 123
+--------------------

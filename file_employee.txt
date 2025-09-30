@@ -1,6 +1,0 @@
-IDNO:: 220405
-NAME:: zani
-EMAIL:: mzulqarnain54444
-SALARY:: 200000
-POST:: fix
-------------------------------
